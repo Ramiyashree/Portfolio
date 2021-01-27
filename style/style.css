@@ -2,13 +2,6 @@
   font-family: "Raleway";
   src: url("../fonts/Raleway-Regular.ttf");
 }
-
-
-@media only screen and (max-width:620px) {
-  /* For mobile phones: */
-  .menu, .main, .right {
-    width:100%;
-  }
   
 @font-face {
   font-family: "Raleway-semibold";
